@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\bin\Debug\ApDung3.exe.config
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\bin\Debug\ApDung3.exe
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\bin\Debug\ApDung3.pdb
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.exe
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp1\ApDung3\obj\Debug\ApDung3.pdb

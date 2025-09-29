@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFEF65B-C464-4EE0-A146-F19BC7D8BF97}|Bai1\\Bai1.csproj|C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\bai1\\input_array.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFFEF65B-C464-4EE0-A146-F19BC7D8BF97}|Bai1\\Bai1.csproj|solutionrelative:bai1\\input_array.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFEF65B-C464-4EE0-A146-F19BC7D8BF97}|Bai1\\Bai1.csproj|c:\\users\\admin\\source\\repos\\bai1\\lab1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFEF65B-C464-4EE0-A146-F19BC7D8BF97}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:51:28.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input_array.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\Bai1\\input_array.txt",
+              "RelativeDocumentMoniker": "Bai1\\input_array.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1\\Lab1\\Bai1\\input_array.txt",
+              "RelativeToolTip": "Bai1\\input_array.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-29T06:31:56.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

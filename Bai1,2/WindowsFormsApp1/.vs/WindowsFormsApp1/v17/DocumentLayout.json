@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|solutionrelative:apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|solutionrelative:apdung4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|solutionrelative:apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F8188F-964D-4020-B3B1-09F46AF02049}|ApDung4\\ApDung4.csproj|solutionrelative:apdung4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|solutionrelative:thuchanh3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|solutionrelative:thuchanh3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{792A1055-9874-4618-9F48-2FAD0A1D76E2}|ThucHanh3\\ThucHanh3.csproj|solutionrelative:thuchanh3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|solutionrelative:apdung3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|solutionrelative:apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E42FAF61-0877-452B-BC71-5ED5B2C59153}|ApDung3\\ApDung3.csproj|solutionrelative:apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|solutionrelative:thuchanh2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|solutionrelative:thuchanh2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|solutionrelative:thuchanh2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\thuchanh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D786E7C6-681E-46AC-8FB2-47E8516E9A54}|ThucHanh2\\ThucHanh2.csproj|solutionrelative:thuchanh2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|solutionrelative:apdung2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|solutionrelative:apdung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4F29C2B-1E43-4772-A2A9-E1C5FA62426E}|ApDung2\\ApDung2.csproj|solutionrelative:apdung2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|solutionrelative:apdung1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|solutionrelative:apdung1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|solutionrelative:apdung1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\apdung1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE477204-45C7-4360-8BB6-DC8D71CAEE00}|ApDung1\\ApDung1.csproj|solutionrelative:apdung1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\bai1,2\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617D5967-BE3C-4CAE-8B5C-E0DEAB546133}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Program.cs",
+              "RelativeDocumentMoniker": "ApDung4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Program.cs",
+              "RelativeToolTip": "ApDung4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:49:49.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ApDung4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.Designer.cs",
+              "RelativeToolTip": "ApDung4\\Form1.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwF8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:49:24.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.cs",
+              "RelativeToolTip": "ApDung4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:48:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung4\\Form1.cs [Design]",
+              "RelativeToolTip": "ApDung4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:48:33.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ThucHanh3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.Designer.cs",
+              "RelativeToolTip": "ThucHanh3\\Form1.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:46:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.cs",
+              "RelativeDocumentMoniker": "ThucHanh3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.cs",
+              "RelativeToolTip": "ThucHanh3\\Form1.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAmwNcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:44:55.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.cs",
+              "RelativeDocumentMoniker": "ThucHanh3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh3\\Form1.cs [Design]",
+              "RelativeToolTip": "ThucHanh3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:44:34.738Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ApDung3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.Designer.cs",
+              "RelativeToolTip": "ApDung3\\Form1.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.cs",
+              "RelativeToolTip": "ApDung3\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:49.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung3\\Form1.cs [Design]",
+              "RelativeToolTip": "ApDung3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:38.093Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ThucHanh2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.Designer.cs",
+              "RelativeToolTip": "ThucHanh2\\Form1.Designer.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:36:34.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Program.cs",
+              "RelativeDocumentMoniker": "ThucHanh2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Program.cs",
+              "RelativeToolTip": "ThucHanh2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:45.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.cs",
+              "RelativeDocumentMoniker": "ThucHanh2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.cs",
+              "RelativeToolTip": "ThucHanh2\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.cs",
+              "RelativeDocumentMoniker": "ThucHanh2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ThucHanh2\\Form1.cs [Design]",
+              "RelativeToolTip": "ThucHanh2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:17.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ApDung2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.Designer.cs",
+              "RelativeToolTip": "ApDung2\\Form1.Designer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwHUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:29:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.cs",
+              "RelativeToolTip": "ApDung2\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:27:57.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung2\\Form1.cs [Design]",
+              "RelativeToolTip": "ApDung2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:27:45.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ApDung1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.Designer.cs",
+              "RelativeToolTip": "ApDung1\\Form1.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:21:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.cs",
+              "RelativeToolTip": "ApDung1\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:21:11.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Program.cs",
+              "RelativeDocumentMoniker": "ApDung1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Program.cs",
+              "RelativeToolTip": "ApDung1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:18:55.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.cs",
+              "RelativeDocumentMoniker": "ApDung1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\ApDung1\\Form1.cs [Design]",
+              "RelativeToolTip": "ApDung1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:18:39.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:11:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:03:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:01:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Bai1,2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:00:10.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
