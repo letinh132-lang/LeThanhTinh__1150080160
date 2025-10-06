@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\bin\Debug\ThucHanh2.exe.config
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\bin\Debug\ThucHanh2.exe
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\bin\Debug\ThucHanh2.pdb
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.exe
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.pdb
+C:\Users\Admin\source\repos\Bai1,2\WindowsFormsApp2\ThucHanh2\obj\Debug\ThucHanh2.exe.config
