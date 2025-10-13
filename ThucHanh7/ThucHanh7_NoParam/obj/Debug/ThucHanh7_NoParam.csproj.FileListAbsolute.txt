@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\bin\Debug\DBConnect.mdf
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\bin\Debug\DBConnect_log.ldf
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\bin\Debug\ThucHanh7_NoParam.exe.config
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\bin\Debug\ThucHanh7_NoParam.exe
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\bin\Debug\ThucHanh7_NoParam.pdb
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.exe
+C:\Users\Admin\source\repos\Bai1,2\ThucHanh7\ThucHanh7_NoParam\obj\Debug\ThucHanh7_NoParam.pdb
