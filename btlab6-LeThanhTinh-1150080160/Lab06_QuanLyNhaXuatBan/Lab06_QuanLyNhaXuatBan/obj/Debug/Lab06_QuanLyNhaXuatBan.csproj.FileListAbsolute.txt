@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\bin\Debug\Lab06_QuanLyNhaXuatBan.exe.config
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\bin\Debug\Lab06_QuanLyNhaXuatBan.exe
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\bin\Debug\Lab06_QuanLyNhaXuatBan.pdb
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.exe
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.pdb
+C:\Users\Admin\source\repos\Bai1,2\Lab06_QuanLyNhaXuatBan\Lab06_QuanLyNhaXuatBan\obj\Debug\Lab06_QuanLyNhaXuatBan.exe.config
