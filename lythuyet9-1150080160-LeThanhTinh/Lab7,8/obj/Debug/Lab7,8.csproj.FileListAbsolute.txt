@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\bin\Debug\QuanLyBanSach.mdf
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\bin\Debug\QuanLyBanSach_log.ldf
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\bin\Debug\Lab7,8.exe.config
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\bin\Debug\Lab7,8.exe
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\bin\Debug\Lab7,8.pdb
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7_8.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.exe
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.pdb
+C:\Users\Admin\source\repos\Bai1,2\Lab7,8\Lab7,8\obj\Debug\Lab7,8.exe.config
